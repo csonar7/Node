@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is practice exercise of coursera courses on Node.js and npm.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csonar7/Node.git"
+  },
+  "author": "Chetan Sanjiv Sonar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csonar7/Node/issues"
+  },
+  "homepage": "https://github.com/csonar7/Node#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
